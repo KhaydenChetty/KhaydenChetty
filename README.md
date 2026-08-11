@@ -16,10 +16,7 @@
 </p>
 
 <!-- ══════════════════════════ ABOUT ══════════════════════════ -->
-<h2 align="center">
-  <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="28" alt="wave" />
-  &nbsp;<code>whoami</code>
-</h2>
+<h2 align="center">👋&nbsp;<code>whoami</code></h2>
 
 ```kotlin
 class Developer(
@@ -63,7 +60,7 @@ class Developer(
 
 <p align="center">
   <a href="https://github.com/KhaydenChetty">
-    <img height="180" src="https://github-readme-stats.vercel.app/api?username=KhaydenChetty&show_icons=true&count_private=true&hide_border=true&title_color=00FFF0&icon_color=FF00FF&text_color=FFFFFF&bg_color=0D1117&include_all_commits=true&rank_icon=percentile" alt="github stats" />
+    <img height="180" src="https://github-readme-stats.vercel.app/api?username=KhaydenChetty&show_icons=true&hide_border=true&title_color=00FFF0&icon_color=FF00FF&text_color=FFFFFF&bg_color=0D1117" alt="github stats" />
   </a>
   <a href="https://github.com/KhaydenChetty">
     <img height="180" src="https://streak-stats.demolab.com?user=KhaydenChetty&theme=radical&hide_border=true&background=0D1117&stroke=00FFF0&ring=FF00FF&fire=FF006E&currStreakLabel=00FFF0" alt="github streak" />
@@ -72,7 +69,7 @@ class Developer(
 
 <p align="center">
   <a href="https://github.com/KhaydenChetty">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaydenChetty&layout=donut-vertical&hide_border=true&title_color=00FFF0&text_color=FFFFFF&bg_color=0D1117&langs_count=10" alt="top languages" height="220" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhaydenChetty&layout=compact&hide_border=true&title_color=00FFF0&text_color=FFFFFF&bg_color=0D1117&langs_count=8" alt="top languages" height="220" />
   </a>
   <a href="https://github.com/KhaydenChetty">
     <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KhaydenChetty&theme=radical" alt="profile details" height="220" />
@@ -84,7 +81,7 @@ class Developer(
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=KhaydenChetty&theme=radical&no-frame=true&no-bg=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
+    <img src="https://github-profile-trophy.vercel.app/?username=KhaydenChetty&theme=radical&no-frame=true&column=7&margin-w=8&margin-h=8" alt="trophies" />
   </a>
 </p>
 
@@ -152,6 +149,6 @@ class Developer(
 </p>
 
 <!-- ══════════════════════════ FOOTER ══════════════════════════ -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8338EC,50:FF00FF,100:00FFF0&height=140&section=footer&text=%3C%2F%20thanks%20for%20visiting%20%3E&fontSize=22&fontColor=FFFFFF&animation=twinkling&fontAlignY=70" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:8338EC,50:FF00FF,100:00FFF0&height=140&section=footer&text=thanks%20for%20visiting&fontSize=24&fontColor=FFFFFF&animation=twinkling&fontAlignY=70" alt="footer" />
 
 <p align="center"><sub>⚡ Auto-refreshed by GitHub Actions · Powered by too much caffeine ⚡</sub></p>
