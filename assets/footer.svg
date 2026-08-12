@@ -1,0 +1,37 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1000 120" width="1000" height="120" role="img" aria-label="System online — Khayden Chetty, Application Developer">
+  <title>End of session — Khayden Chetty</title>
+
+  <defs>
+    <linearGradient id="fRule" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%"   stop-color="#00FFF0" stop-opacity="0"/>
+      <stop offset="30%"  stop-color="#00FFF0" stop-opacity="0.8"/>
+      <stop offset="70%"  stop-color="#8B5CF6" stop-opacity="0.8"/>
+      <stop offset="100%" stop-color="#FF00FF" stop-opacity="0"/>
+    </linearGradient>
+    <filter id="fGlow" x="-60%" y="-60%" width="220%" height="220%">
+      <feGaussianBlur stdDeviation="2" result="b"/>
+      <feMerge><feMergeNode in="b"/><feMergeNode in="SourceGraphic"/></feMerge>
+    </filter>
+  </defs>
+
+  <style>
+    .fmono { font-family: "JetBrains Mono", "SFMono-Regular", Consolas, "Liberation Mono", Menlo, monospace; }
+    @keyframes fblink { 0%,45%{opacity:1} 50%,95%{opacity:0} 100%{opacity:1} }
+    @keyframes fpulse { 0%,100%{opacity:0.45} 50%{opacity:1} }
+    .fcursor { animation: fblink 1.1s steps(1) infinite; }
+    .fdot    { animation: fpulse 2.4s ease-in-out infinite; }
+  </style>
+
+  <rect width="1000" height="120" fill="#05070A"/>
+  <rect x="0" y="18" width="1000" height="1.5" fill="url(#fRule)"/>
+
+  <circle class="fdot" cx="219" cy="56" r="4" fill="#00FFF0" filter="url(#fGlow)"/>
+  <text class="fmono" x="235" y="61" font-size="13" fill="#00FFF0" letter-spacing="3">SYSTEM ONLINE</text>
+  <text class="fmono" x="389" y="61" font-size="13" fill="#21262D">|</text>
+  <text class="fmono" x="409" y="61" font-size="13" fill="#7D8590" letter-spacing="2">KHAYDEN CHETTY</text>
+  <text class="fmono" x="559" y="61" font-size="13" fill="#21262D">|</text>
+  <text class="fmono" x="579" y="61" font-size="13" fill="#7D8590" letter-spacing="2">APPLICATION DEVELOPER</text>
+
+  <text class="fmono" x="496" y="92" text-anchor="middle" font-size="12" fill="#7D8590"><tspan fill="#8B5CF6">khayden@github</tspan>:~$ exit</text>
+  <rect class="fcursor" x="580" y="82" width="7" height="13" fill="#00FFF0"/>
+</svg>
